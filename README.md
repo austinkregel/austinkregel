@@ -24,3 +24,9 @@ My favorite type of projects to work on are interal automation tools. I don't ha
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F05032?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white" />
 </p>
+
+----
+# Recent tunes
+My recent spotify plays! I saw this on another profile and loved it so much I wanted to do it too
+
+![Austin's recently played](https://spotify-recently-played-readme.vercel.app/api?user=mgnarzmmmv5zmvd5aexss8403&unique={true|1|on|yes})
