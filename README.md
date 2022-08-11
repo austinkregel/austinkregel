@@ -2,7 +2,7 @@
 
 <img align='right'  src="https://github-readme-stats.vercel.app/api?username=austinkregel&show_icons=true&theme=dark" width="380">
 
-My favorite type of projects to work on are interal automation tools. I don't handle client-facing preasure well, but I excel at building tools which save time. 
+My favorite type of projects to work on are interal automation tools. I don't enjoy client-facing preasure much, but I excel at building tools which save time. 
 
 🌱 Currently learning how to write tests for JavaScript (React specifically) 😵 and how to work with my ADHD as opposed to fighting it.
 
