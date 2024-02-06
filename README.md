@@ -26,7 +26,7 @@ My favorite type of projects to work on are interal automations and tooling. I a
 </p>
 
 ### Loosely maintained side projects
- - [aut.hair](https://aut.hair) an OAuth server that uses Laravel Passport and Socialite to enable a light central authentication portal. 
+ - [aut.hair](https://aut.hair) an OAuth server that uses Laravel Passport and Socialite to enable a light central authentication portal. [Open sourced on Github](https://github.com/austinkregel/aut.hair)
  - [Lazy.Build](https://lazy.build) is an open source [collection of scripts](https://github.com/Lazy-Build/scripts) meant to be run on a newly installed operating system for convienece.
  - [Helpful Information](https://github.com/helpful-information) intended to be a collection of websites to provide quick and easy access to various information.
    - [Crisis.tools](https://crisis.tools) a woefully incomplete list of information useful when someone is in crisis, [open source on Github](https://github.com/helpful-information/crisis.tools)
