@@ -39,9 +39,3 @@ My favorite type of projects to work on are interal automations and tooling. I a
  - [Laravel Nova Failed Jobs Tool](https://github.com/austinkregel/nova-failed-jobs-tool) and the non-Laravel specific package it's based on [php-exception-probe](https://github.com/austinkregel/php-exception-probe). The nova package provides an interface to rerun failed jobs, and to inspect the exception from Nova with code context. `php-exception-probe` is how the interface gets the code context from the exceptions produced by the failed jobs.
  - [Spork](https://github.com/austinkregel/spork) a personal everything project that allows me to test ideas and expiriment with configurations, servers, coordinating external services, code generation and dynamic editing, and so much more. 🚧🔨 This app is under frequent and heavy construction...
 
-----
-# Recent tunes
-My recent spotify plays! I saw this on another profile and loved it so much I wanted to do it too
-
-![Austin's recently played](https://spotify-recently-played-readme.vercel.app/api?user=mgnarzmmmv5zmvd5aexss8403&unique={true|1|on|yes})
-
