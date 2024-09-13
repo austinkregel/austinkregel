@@ -6,7 +6,7 @@ My favorite type of projects to work on are interal automations and tooling. I a
 
 🌱 Currently learning how to programmatically manipulate PHP to refactor code en masse to accelerate development👀. As my work team has fluctuated from 5 developers, to 12 developers, to 3, back to 11 devs, and down to 2 devs over the last 5 years; I've grown increaslingly more concerned with maintainability and managing complexity with large code bases.
 
-🏗️ I spent the first 3 years of my career building a glorafied excel sheet for tracking RMA requests, now I work in the automotive industry helping automate dynamic ad creation for an internal team.
+🏗️ I spent the first 3 years of my career building a glorified excel sheet for tracking RMA requests, now I work in the automotive industry helping automate dynamic ad creation for an internal team.
 
 🏠 Outside of work, I love to tinker with microelectronics, hyrdoponics, home-automation, and tracking my own data. I've used Arduino, Particle Photon, ESP32, and ESP01 devices as well as custom circuit design through [EasyEDA](https://easyeda.com/). I also built a [finance tracking tool](https://github.com/austinkregel/finance) that uses the [Plaid API](https://plaid.com/) to fetch transactions, and issue webhook notifications.
 
